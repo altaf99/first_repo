@@ -1,2 +1,3 @@
 This Is my first file
-this line after comiit
+this line after commit.
+This is an experiment related to working of git
